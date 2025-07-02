@@ -30,10 +30,6 @@ Arguments:
 - `--best_weight_dir`: Directory of the best model weights for test.
 - `--threshold`: Threshold for classification (for test).
 
-Example Usage:
--------------
-python cli.py --mode train --logs_dir ./logs --dataset_dir ./data/train --annotation_dir ./annotations.csv --batch_size 64 --epoch_number 10 --lr_rate 0.001 --num_classes 2 --pretrained_dir ./weights/pretrained
-
 
 Note:
 ----
