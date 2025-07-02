@@ -38,7 +38,7 @@ To run the testing code directly:
 
 5. **Run the test script**
    ```bash
-   python test.py --config path/to/config.yaml
+   python test.py --best_weight_dir ./weight/weights.pth --threshold 0.5 --dataset_dir ./dataset
 
 ## Project Structure
 ```bash
