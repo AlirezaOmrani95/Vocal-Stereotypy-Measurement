@@ -63,6 +63,10 @@ Vocal-Stereotypy-Measurement/
 This project is licensed under the **[MIT License](LICENSE)**.
 You are free to use, modify, and distribute this software under the terms of the license.
 
+## Disclaimer
+
+This tool is for research and educational purposes only. It is not intended for clinical use.
+
 ## Citation
 If you use this code or software in your research, please cite:
 ```bibtex
