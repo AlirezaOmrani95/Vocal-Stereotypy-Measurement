@@ -1,8 +1,11 @@
 # Vocal-Stereotypy-Measurement
 This repository contains the implementation code for the paper:  
-**"Machine Learning to Measure Vocal Stereotypy: An Extension"**
+**"Machine Learning to Detect Vocal Stereotypy: Improving Duration-Based Measures"**
 
-The goal of this project is to detect and measure vocal stereotypy using a machine learning model trained on relevant audio features.
+**The goal of this project is to detect and measure vocal stereotypy using a machine learning model trained on relevant audio features.**
+
+You can find the paper [here](https://journals.sagepub.com/doi/full/10.1177/01454455251380510).
+
 ---
 
 ## 🧪 How to Run the Testing Pipeline
@@ -70,12 +73,16 @@ This tool is for research and educational purposes only. It is not intended for 
 ## Citation
 If you use this code or software in your research, please cite:
 ```bibtex
-@misc{omrani_lanovaz_moroni_2024,
- title={Machine Learning to Detect Vocal Stereotypy: Improving Duration-Based Measures},
- url={osf.io/preprints/psyarxiv/c4k98_v1},
- DOI={10.31234/osf.io/c4k98},
- publisher={PsyArXiv},
- author={Omrani, Ali R and Lanovaz, Marc J and Moroni, Davide},
- year={2024},
- month={Aug}
+@article{doi:10.1177/01454455251380510,
+   author = {Ali Reza Omrani and Marc J. Lanovaz and Davide Moroni},
+   title ={Machine Learning to Detect Vocal Stereotypy: Improving Duration-Based Measures},
+   journal = {Behavior Modification},
+   volume = {0},
+   number = {0},
+   pages = {01454455251380510},
+   year = {0},
+   doi = {10.1177/01454455251380510},
+       note ={PMID: 41103133},
+   URL = {https://doi.org/10.1177/01454455251380510},
+   eprint = {https://doi.org/10.1177/01454455251380510}
 }
